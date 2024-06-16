@@ -1,10 +1,8 @@
-## axios vs Fetch API
+## Fetch API
 
-JavaScript 標準の Fetch API と axios ライブラリを比較します。
+JavaScript の Fetch API を学びます。
 
 [Fetch API](https://developer.mozilla.org/ja/docs/Web/API/Fetch_API)
-
-[axios](https://github.com/axios/axios)
 
 ## ライセンス
 
